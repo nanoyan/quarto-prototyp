@@ -15,6 +15,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: External site
+        href: https://iqb-vocabs.github.io/p80/
 
 format:
   html:
